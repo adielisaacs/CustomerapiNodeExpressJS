@@ -4,6 +4,9 @@
 
 ## Project setup
 ```
+download and unzip to a folder
+
+in console run the following on commandline 
 npm install
 ```
 
